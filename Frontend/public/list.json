@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "genre": "Action/Sci-fi",
+        "title": "Avengers: Infinity War",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://static.displate.com/280x392/displate/2021-01-28/dc1c9755686a49e6b6d5d8862c3d3b28_a1bca47c459b1b31f0361c9c916e0192.jpg"
+    },
+    {
+        "id": 2,
+        "genre": "Romance",
+        "title": "Titanic",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://m.media-amazon.com/images/I/71uoicxpqoS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "genre": "Comedy/Romance",
+        "title": "3 Idiots",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+    },
+    {
+        "id": 4,
+        "genre": "Comedy/Romance",
+        "title": "Forrest Gump",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://i.etsystatic.com/15375993/r/il/cbafe5/1303342253/il_fullxfull.1303342253_qphh.jpg"
+    },
+    {
+        "id": 5,
+        "genre": "Family/Fantasy",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://jonahwrites.blog/wp-content/uploads/2021/02/harry-potter-and-the-prisoner-of-azkaban-movie-poster-style-f-11x17-1.jpg?w=360"
+    },
+    {
+        "id": 6,
+        "genre": "Adventure/Sci-fi",
+        "title": "Jurassic Park",
+        "price": 0,
+        "priceCategory": "Free",
+        "img": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/f00bf346385235.58520f9022451.jpg"
+    },
+    {
+        "id": 7,
+        "genre": "Sci-fi/Action",
+        "title": "Inception",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    },
+    {
+        "id": 8,
+        "genre": "Action/Crime",
+        "title": "The Dark Knight",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg"
+    },
+    {
+        "id": 9,
+        "genre": "Adventure/Action",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/p_piratesofthecaribbean_thecurseoftheblackpearl_19642_d1ba8e66.jpeg"
+    },
+    {
+        "id": 10,
+        "genre": "Adventure/Drama",
+        "title": "Into The Wild",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://www.tallengestore.com/cdn/shop/products/Into_The_Wild_-_Movie_Poster_Art_-_Tallenge_Hollywood_Poster_Collection_ee313244-030f-4b51-aa20-94c9cfb79814.jpg?v=1570086337"
+    },
+    {
+        "id": 11,
+        "genre": "Family/Drama",
+        "title": "The Pursuit of Happyness",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg"
+    },
+    {
+        "id": 12,
+        "genre": "Thriller/Crime",
+        "title": "Joker",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+        "id": 13,
+        "genre": "Comedy/Thriller",
+        "title": "The Wolf of Wall Street",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/I/81NY04-QHrL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 14,
+        "genre": "Action/Comedy",
+        "title": "Bullet Train",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+        "id": 15,
+        "genre": "Action/Thriller",
+        "title": "Fight Club",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "id": 16,
+        "genre": "Thriller/Crime",
+        "title": "The Shawshank Redemption",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    },
+    {
+        "id": 17,
+        "genre": "Romance/Drama",
+        "title": "Good Will Hunting",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+        "id": 18,
+        "genre": "Sci-fi/Action",
+        "title": "Avatar",
+        "price": 20,
+        "priceCategory": "Prime",
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg"
+    }
+]
